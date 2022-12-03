@@ -5,4 +5,4 @@ Click [here](https://discord.com/api/oauth2/authorize?client_id=1007807076044636
 
 Type in chat: `dog help` to see commands.
 
-Made with love by IsTheWit
+Made with love by [IsTheWit](https://github.com/IsTheWit) and [A1Asriel](https://github.com/A1Asriel)
